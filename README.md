@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://GajananBhalerao.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://Gajananbhalerao.io)
+<imgbalign="middle" alt="DevOps" width="600" src="https://www.google.com/search?q=devops+engineer&sxsrf=ALiCzsZtj3GIXfE9l83WI1VFiSMlsT7hUA:1671651408525&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiaw5Ljuov8AhW6CrcAHdr9AkAQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=k_q1ogIsBrUjwM">
 <h1 align="center">Hi 👋, I'm Gajanan A Bhalerao</h1>
 <imgbalign="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&oq=ani&aqs=chrome.1.69i57j0i67l2j0i67i131i433j0i67l5j46i67.7724j0j7&sourceid=chrome&ie=UTF-8#imgrc=KAywifT46CGFXM">
 <h3 align="center">A passionate DevOps Engineer from India</h3>
