@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://GajananBhalerao.io)
 <h1 align="center">Hi 👋, I'm Gajanan A Bhalerao</h1>
 <imgbalign="right" alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&oq=ani&aqs=chrome.1.69i57j0i67l2j0i67i131i433j0i67l5j46i67.7724j0j7&sourceid=chrome&ie=UTF-8#imgrc=KAywifT46CGFXM">
 <h3 align="center">A passionate DevOps Engineer from India</h3>
